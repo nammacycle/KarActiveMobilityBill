@@ -2,7 +2,7 @@
 1. [Introduction](#introduction)
 2. [Preamble/ Statement of Objects and Reasons](#paragraph1)
     1. [Sub paragraph](#subparagraph1)
-3. [  Chapter I - Preliminary ]([link](/chapter1.md)   )
+3.  ([Chapter I - Preliminary ](/chapter1.md)    )
 4. [  Chapter II – Comprehensive Mobility Plans ](#paragraph2)
 5. [  Chapter III - Complete and connected urban streets  ](#paragraph2)
 6. [  Chapter IV - Redevelopment and new development of streets ](#paragraph2)
