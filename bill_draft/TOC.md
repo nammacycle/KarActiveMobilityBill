@@ -27,10 +27,10 @@ Some introduction text, formatted in heading 2 style
  11. [  Chapter 11 - Rights and Responsibilities of  Pedestrians and Cyclists ](./chapter11.md)
  12. [  Chapter 12 - Responsibilities of motor vehicle drivers towards pedestrians and Cyclists  ](./chapter12.md)
  13. [  Chapter 13 –  Development of Standards and Guidelines - ](./chapter13.md)
- 14. [  Chapter 14 -  Funding](./chapter14.md)
- 15. [  Chapter 15 - Offences and Penalties ](./chapter15.md)
- 16. [  Chapter 16 - Miscellaneous   ](./chapter16.md)
- 17. [  Chapter 17 -  - ](./chapter17.md)
+ 14. [  Chapter 14 -  Education, Awareness Generation and Enforcement](./chapter14.md)
+ 15. [  Chapter 15 - Funding ](./chapter15.md)
+ 16. [  Chapter 16 - Offences and Penalties ](./chapter16.md)
+ 17. [  Chapter 17 -  Miscellaneous  ](./chapter17.md)
   
  
 
