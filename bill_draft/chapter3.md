@@ -1,5 +1,5 @@
-### Complete and connected urban streets with pedestrian and cycling network.
-
+## CHAPTER III-Complete and connected urban streets with pedestrian and cycling network.
+ 
 ### 4.	Development of complete and connected streets. -
 - It is the duty and responsibility of every Urban Local Body to design, construct and maintain a network of complete and connected streets, with footpaths of adequate width, and segregated cycle tracks or shared paths as permitted by the right of way of the street, for the use of pedestrians and cyclists, within their jurisdiction.
 
