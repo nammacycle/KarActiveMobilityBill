@@ -26,3 +26,15 @@
 - No agency or the department of the Government or any private individual or individuals or association of individuals shall have any right whatsoever to erect any permanent or temporary structure on the footpaths, cycle tracks, or shared paths. Any such act will be considered as an infringement on the rights of pedestrians/cyclists and will be liable to fine and/or imprisonment as specified. Provided where such obstructions exist on the footpaths before the commencement of the Act, a reasonable time as specified shall be given for removal of obstructions by the individuals or agencies concerned.
 
 
+
+
+####  23.	Construction activities not to obstruct footpaths, Cycle tracks and Shared paths. -
+
+-  (1)	Safe mobility of pedestrians and cyclists shall be ensured without long detours during construction activities.
+
+(2)	Adequate signage should be at site to inform pedestrians and cyclists of the construction activity, and the detour to be taken.
+
+(3)	Information on such detours to walk and cycle routes and details of the construction activities should be published at the site and on various media for information of the public.
+
+
+
