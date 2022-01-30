@@ -1,4 +1,4 @@
-3.	Preparation of Comprehensive Mobility Plans. -
+### 3.	Preparation of Comprehensive Mobility Plans. -
 
 (1)	A Comprehensive Mobility Plan shall be prepared, in the manner and within the period specified, for Urban Local Bodies or Local Planning Authority of the State notified by the State Government. However, the Comprehensive Mobility Plan shall be prepared for all the municipal corporations of the State within two years from the date of commencement of the Act.
 
