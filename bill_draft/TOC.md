@@ -1,7 +1,19 @@
+ 
+
+
 # Table of contents
-[Introduction](#introduction)
-[Preamble/ Statement of Objects and Reasons](#paragraph1)
-   [Sub paragraph](#subparagraph1)
+
+## Introduction <a name="introduction"></a>
+Some introduction text, formatted in heading 2 style
+
+ 
+# Preamble/ Statement of Objects and Reasons
+
+[   Statement of Objects ](./statement.md)   
+
+# TOC
+
+ 
  1.  [  Chapter 1 - Preliminary ](./chapter1.md)   
  2.  [  Chapter 2 – Comprehensive Mobility Plans ](./chapter2.md)
  3.  [  Chapter 3 - Complete and connected urban streets  ](./chapter3.md)
@@ -22,19 +34,14 @@
   
  
 
-## This is the introduction <a name="introduction"></a>
-Some introduction text, formatted in heading 2 style
+## Feedback will be sent to DULT <a name="introduction"></a>
+This is the first time in the history of India that a Bill is open sourced and being enabled for public feedback and this is due to the efforts of DULT to solicit the public feedback.
+In this discussion that happened with the Commissioner DULT it was decided to be extend the date of submission to Feb end - so pls put your feedback here.
 
-## Some paragraph <a name="paragraph1"></a>
-The first paragraph text
-
-### Sub paragraph <a name="subparagraph1"></a>
-This is a sub paragraph, formatted in heading 3 style
-
-## Another paragraph <a name="paragraph2"></a>
-The second paragraph text
-
+Follow the guidelines here ;
  
+ 
+
 
 
 
