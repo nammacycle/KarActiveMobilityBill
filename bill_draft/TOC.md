@@ -36,13 +36,6 @@ Some introduction text, formatted in heading 2 style
 
 ## Feedback will be sent to DULT <a name="introduction"></a>
 This is the first time in the history of India that a Bill is open sourced and being enabled for public feedback and this is due to the efforts of DULT to solicit the public feedback.
-In this discussion that happened with the Commissioner DULT it was decided to be extend the date of submission to Feb end - so pls put your feedback here.
+In this discussion that happened with the Commissioner DULT on Jan 31 2022 , it was decided to be extend the date of submission by another 10 days - so pls put your feedback here.
 
-Follow the guidelines here ;
- 
- 
-
-
-
-
-
+Follow the guidelines here ;  
